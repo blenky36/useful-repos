@@ -1,4 +1,4 @@
-# useful-repos
+# Useful Repos
 
 - https://github.com/BuildSanely/pixcrush -> Auto resize and optimise all images in frontend projects
 - https://github.com/citypaul/mac-dev-machine-setup -> Setup new macs
