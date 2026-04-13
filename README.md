@@ -4,3 +4,4 @@
 - https://github.com/citypaul/mac-dev-machine-setup -> Setup new macs
 - https://github.com/citypaul/.dotfiles -> shell configurations, git aliases, and AI development environment setup
 - https://github.com/zimfw/zimfw -> zsh config manager
+- https://github.com/jamiedavenport/openpolicy -> Automated legal policies
