@@ -6,3 +6,4 @@
 - https://github.com/zimfw/zimfw -> zsh config manager
 - https://github.com/jamiedavenport/openpolicy -> Automated legal policies
 - https://floci.io/ -> Free AWS local emulator
+- https://github.com/paullarionov/claude-certified-architect -> Claude Guides
