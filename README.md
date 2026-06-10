@@ -7,3 +7,4 @@
 - https://github.com/jamiedavenport/openpolicy -> Automated legal policies
 - https://floci.io/ -> Free AWS local emulator
 - https://github.com/paullarionov/claude-certified-architect -> Claude Guides
+- https://github.com/jbarbier/CLAUDE.md/blob/main/CLAUDE.md -> Senior Claude.MD file
