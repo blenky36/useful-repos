@@ -8,3 +8,4 @@
 - https://floci.io/ -> Free AWS local emulator
 - https://github.com/paullarionov/claude-certified-architect -> Claude Guides
 - https://github.com/jbarbier/CLAUDE.md/blob/main/CLAUDE.md -> Senior Claude.MD file
+- https://github.com/filippofilip95/car-logos-dataset -> Car logos dataset
