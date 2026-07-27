@@ -10,6 +10,7 @@ Applications
 - https://github.com/jamiedavenport/openpolicy -> Automated legal policies
 - https://floci.io/ -> Free AWS local emulator
 - https://github.com/ministackorg/ministack -> Free AWS local emulator
+- https://github.com/SanzarRehman/HTML2PDF -> Rust HTML to PDF converter
   
 Data
 - https://github.com/filippofilip95/car-logos-dataset -> Car logos dataset
